@@ -1,4 +1,13 @@
-# Contador de votos do Instagram
+# Contador de Votos do Instagram
+
+## Índice
+
+1. [Funcionalidades](#funcionalidades)
+2. [Como usar](#como-usar)
+3. [Detalhes do código](#detalhes-do-código)
+4. [Exemplo de Saída](#exemplo-de-saída)
+5. [Requisitos](#requisitos)
+6. [Observações](#observações)
 
 Este repositório contém um script em JavaScript para contar votos válidos nos comentários de uma postagem no Instagram. O script garante que cada usuário possa votar apenas uma vez e contabiliza votos para três opções diferentes.
 
@@ -87,7 +96,7 @@ Camiseta 3: 40 (26.67%)
 
 - O script foi projetado para ser usado no navegador, e deve ser colado diretamente no console.
 - Ele é específico para o layout e estrutura atual do Instagram, podendo necessitar de ajustes caso a plataforma seja atualizada.
-  
+
 ---
 Sinta-se à vontade para contribuir ou relatar problemas na seção de issues do repositório.
 
